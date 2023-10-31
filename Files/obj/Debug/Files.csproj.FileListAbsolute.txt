@@ -1,0 +1,7 @@
+C:\Users\leona\source\repos\Files\Files\bin\Debug\Files.exe.config
+C:\Users\leona\source\repos\Files\Files\bin\Debug\Files.exe
+C:\Users\leona\source\repos\Files\Files\bin\Debug\Files.pdb
+C:\Users\leona\source\repos\Files\Files\obj\Debug\Files.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Files\Files\obj\Debug\Files.exe
+C:\Users\leona\source\repos\Files\Files\obj\Debug\Files.pdb
